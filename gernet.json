@@ -1,0 +1,11 @@
+{
+"path":"com.github.osblinnikov.RuntimeEquation",
+"ver":"0.0.0",
+"static":{},
+"props": [],
+"blocks":[],
+"connection":{
+  "writeTo": [],
+  "readFrom": []
+}
+}
